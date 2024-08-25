@@ -1,0 +1,11 @@
+.rect{
+    cursor: pointer;
+    border: 2px solid black;
+   border-radius: 3px;
+    height: 400px;
+    width: 600px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
